@@ -6,4 +6,8 @@ def sponge
   puts jolly rodger
 end
 
+def pineapple
+  puts easter island 
+end
+
 #squids, starfish, sponge
