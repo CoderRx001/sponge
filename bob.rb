@@ -6,3 +6,4 @@ def sponge
   puts jolly rodger
 end
 
+#squids, starfish, sponge
